@@ -14,3 +14,7 @@ Most people who fall sick with COVID-19 will experience mild to moderate symptom
 1. Worst hit Provinces — Most Death, Most Confirmed Cases
 2. Worst hit Country Most Death, Most Confirmed Cases
 3. After what day cases spiked up in US
+
+#### Tech Requirements
+
+Python, Numpy, Pandas and Matplotlib
